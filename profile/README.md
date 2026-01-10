@@ -9,6 +9,9 @@
 ### Krótki opis
 Celem projektu jest stworzenie aplikacji webowej (serwisu), która na podstawie danych podanych przez użytkownika wyszukuje mieszkania w Polsce oraz analizuje je w kontekście koncepcji **„15‑minutowego miasta”** (dostępność kluczowych usług i miejsc w krótkim czasie dojścia/dojazdu).
 
+### Film promocyjny
+[![M1A5TO – film promocyjny](https://img.youtube.com/vi/s6ArtpMCdoU/hqdefault.jpg)](https://www.youtube.com/watch?v=s6ArtpMCdoU)
+
 ### Repozytoria
 - **FRONTEND (aplikacja webowa):** https://github.com/M1A5TO/Web-Application
 - **SCRAPPER (scraper ofert nieruchomości):** https://github.com/M1A5TO/realestate-scraper
@@ -42,6 +45,9 @@ https://github.com/orgs/M1A5TO/projects/3
 
 ### Short description
 The goal of the project is to build a web application (service) that, based on user-provided input, searches for apartments across Poland and analyzes them in the context of the **15‑minute city** concept (accessibility of key services and places within a short walking/transit time).
+
+### Promo video
+[![M1A5TO – promo video](https://img.youtube.com/vi/s6ArtpMCdoU/hqdefault.jpg)](https://www.youtube.com/watch?v=s6ArtpMCdoU)
 
 ### Repositories
 - **FRONTEND:** https://github.com/M1A5TO/Web-Application
