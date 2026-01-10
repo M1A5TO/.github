@@ -17,6 +17,8 @@ Celem projektu jest stworzenie aplikacji webowej (serwisu), która na podstawie 
 - **POI (algorytm „15‑minutowego miasta” / punkty POI):** https://github.com/M1A5TO/15MC-Algorithm
 - **FUZZY (logika rozmyta dla profili użytkowników):** https://github.com/M1A5TO/Fuzzy-Logic-Profiles
 
+- **ORCHESTRATOR (uruchomienie całości lokalnie):** https://github.com/M1A5TO/M1A5TO
+
 ### Kryteria
 Kryteria „15‑minutowego miasta”, które stosujemy:  
 [M1A5TO – założenia](https://docs.google.com/document/d/1bayo7wMP1zKqSPX2QSi-ACIE2eE-8-ol_t4nFlR9ZjU/edit?usp=sharing)
@@ -48,6 +50,8 @@ The goal of the project is to build a web application (service) that, based on u
 - **AI (interior image classifier):** https://github.com/M1A5TO/AI-interior-image-classifier
 - **POI (15-minute city algorithm):** https://github.com/M1A5TO/15MC-Algorithm
 - **FUZZY (fuzzy logic for user profiles):** https://github.com/M1A5TO/Fuzzy-Logic-Profiles
+
+- **ORCHESTRATOR (local run):** https://github.com/M1A5TO/M1A5TO
 
 ### Criteria
 The 15‑minute city criteria we use:  
