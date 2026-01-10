@@ -17,7 +17,7 @@ Celem projektu jest stworzenie aplikacji webowej (serwisu), która na podstawie 
 - **POI (algorytm „15‑minutowego miasta” / punkty POI):** https://github.com/M1A5TO/15MC-Algorithm
 - **FUZZY (logika rozmyta dla profili użytkowników):** https://github.com/M1A5TO/Fuzzy-Logic-Profiles
 
-- **ORCHESTRATOR (uruchomienie całości lokalnie):** https://github.com/M1A5TO/M1A5TO
+- **M1A5TO (ORCHESTRATOR - uruchomienie całości lokalnie):** https://github.com/M1A5TO/M1A5TO
 
 ### Kryteria
 Kryteria „15‑minutowego miasta”, które stosujemy:  
@@ -51,7 +51,7 @@ The goal of the project is to build a web application (service) that, based on u
 - **POI (15-minute city algorithm):** https://github.com/M1A5TO/15MC-Algorithm
 - **FUZZY (fuzzy logic for user profiles):** https://github.com/M1A5TO/Fuzzy-Logic-Profiles
 
-- **ORCHESTRATOR (local run):** https://github.com/M1A5TO/M1A5TO
+- **M1A5TO (ORCHESTRATOR - local run):** https://github.com/M1A5TO/M1A5TO
 
 ### Criteria
 The 15‑minute city criteria we use:  
