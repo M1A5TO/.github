@@ -22,6 +22,8 @@ Celem projektu jest stworzenie aplikacji webowej (serwisu), która na podstawie 
 
 - **M1A5TO (ORCHESTRATOR - uruchomienie całości lokalnie):** https://github.com/M1A5TO/M1A5TO
 
+**Raport końcowy z projektu znajduje się w repozytorium M1A5TO w pliku: https://github.com/M1A5TO/M1A5TO/blob/main/README_REPORT.md**
+
 ### Kryteria
 Kryteria „15‑minutowego miasta”, które stosujemy:  
 [M1A5TO – założenia](https://docs.google.com/document/d/1bayo7wMP1zKqSPX2QSi-ACIE2eE-8-ol_t4nFlR9ZjU/edit?usp=sharing)
@@ -34,6 +36,7 @@ Kryteria „15‑minutowego miasta”, które stosujemy:
 ### Raporty
 - 📝 Raport 1: *[(24.10.2025)](https://docs.google.com/document/d/1Vb64rsHDrA_MBpPrNcmCLCiHqMmJX0std_viRBTo5Ro/edit?usp=sharing)*
 - 📝 Raport 2: *[(28.11.2025)](https://docs.google.com/document/d/12j_iHGgXzO4sT0kFXQOcWZPHOX3QIBHoGLaq1ZLieFU/edit?usp=sharing)*
+- 📝 Raport 3 (końcowy): *[(12.01.2026)](https://docs.google.com/document/d/18IVOBddoEKQriOVddXrR2Oy1Mx2vxvfr-0kOUVZT9FA/edit?usp=sharing)*
 
 ### Organizacja pracy
 Pracujemy w systemie **epicowym** na GitHub Projects:  
